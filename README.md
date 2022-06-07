@@ -7,7 +7,7 @@ This script can help you to copy redis dump.rdb file to another ubuntu 16+ serve
 First, install the script and make it executable:
 
 ```
-wget https://raw.githubusercontent.com/set-redis/rdb/main/copy-redis-remotely.sh
+wget https://raw.githubusercontent.com/DevGlobla/rdb/main/copy-redis-remotely.sh
 chmod +x copy-redis-remotely.sh
 ```
 
